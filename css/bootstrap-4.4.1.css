@@ -1800,7 +1800,7 @@ pre code {
 
 .table-hover tbody tr:hover {
   color: #212529;
-  background-color: r#ffc9de;
+  background-color: #ffc9de;
 }
 
 .table-primary,
@@ -1828,23 +1828,23 @@ pre code {
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: ##ffc9de;
+  background-color: #ffc9de;
 }
 
 .table-secondary th,
 .table-secondary td,
 .table-secondary thead th,
 .table-secondary tbody + tbody {
-  border-color: #b3b7bb;
+  border-color: #ffc9de;
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #c8cbcf;
+  background-color: #ffc9de;
 }
 
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
-  background-color: #c8cbcf;
+  background-color: #ffc9de;
 }
 
 .table-success,
